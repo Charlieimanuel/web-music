@@ -22,35 +22,30 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'stay.mp3'
-    },
-    {
-        img : 'fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'fallingdown.mp3'
-    },
-    {
-        img : 'faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'Faded.mp3'
-    },
-    {
-        img : 'ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'Rather Be.mp3',
-    },
-    {
         img : 'komang.jpg',
         name : 'Komang',
         artist : 'Raim Laode',
-        music : 'Raim Laode Komang.mp3',
+        music : 'Raim Laode Komang.mp3'
     },
+    {
+        img : 'jiwa.jpg',
+        name : 'Jiwa Yang Bersedih',
+        artist : 'Ghea Indrawari',
+        music : 'Ghea Indrawari Jiwa Yang Bersedih.mp3'
+    },
+    {
+        img : 'yellow.jpg',
+        name : 'Yellow',
+        artist : 'Coldplay',
+        music : 'Yellow.mp3'
+    },
+    {
+        img : 'musik3.jpg',
+        name : 'Love Yourself',
+        artist : 'Justin Bieber',
+        music : 'Justin_Bieber_-_Love_Yourself_(Jesusful.com).mp3',
+    },
+     
     
 ];
 
